@@ -13,8 +13,7 @@ if (num>100 && num<1000)
 {
     int num1 = num / 10;
     int num2 = num1%10;
- //   int fullnum = (num1*10)+num2;
-
+ 
 System.Console.WriteLine($"Второй цифрой введённого Вами числа является: {num2}");
 }
 else
