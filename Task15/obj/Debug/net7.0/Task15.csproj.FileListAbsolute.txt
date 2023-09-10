@@ -1,0 +1,14 @@
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\bin\Debug\net7.0\Task15.exe
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\bin\Debug\net7.0\Task15.deps.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\bin\Debug\net7.0\Task15.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\bin\Debug\net7.0\Task15.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\refint\Task15.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task15\obj\Debug\net7.0\ref\Task15.dll
