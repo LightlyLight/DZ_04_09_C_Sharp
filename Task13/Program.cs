@@ -15,14 +15,14 @@ if (num >= 100)
         if (num/100 >= 1 && num/100 <= 9)
         {
             int num1 = num/10;
-            int num2 = num/10%10;
+            int num2 = num%10;
             System.Console.WriteLine($"Третьей цифрой введённого Вами числа является: {num2}");
+            break;
         }
         else
-            num = num/10;
+            num = num/10;  
     }
    
 }   
 else
     System.Console.WriteLine("Это двузначное число и у него нет третьей цифры: ");
-
