@@ -7,14 +7,22 @@
 System.Console.WriteLine("Введите любое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-if (int num >= 100)
+int length = num/100;
+if (num >= 100)
 {
-    for (i = 0; i < num.Length; i++)
-    int num1 = num / 10;
-    int num2 = num1%10;
-
-System.Console.WriteLine($"Третьей цифрой введённого Вами числа является: {num2}");
-}
+    for (int i = 0; i < length; i++)
+    {
+        if (num/100 >= 1 && num/100 <= 9)
+        {
+            int num1 = num/10;
+            int num2 = num/10%10;
+            System.Console.WriteLine($"Третьей цифрой введённого Вами числа является: {num2}");
+        }
+        else
+            num = num/10;
+    }
+   
+}   
 else
     System.Console.WriteLine("Это двузначное число и у него нет третьей цифры: ");
 

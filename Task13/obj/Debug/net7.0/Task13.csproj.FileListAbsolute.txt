@@ -1,0 +1,14 @@
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\bin\Debug\net7.0\Task13.exe
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\bin\Debug\net7.0\Task13.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Света\Аналитик\ДЗ БА ГикБрейн\DZ_04_09_C_Sharp\Task13\obj\Debug\net7.0\ref\Task13.dll

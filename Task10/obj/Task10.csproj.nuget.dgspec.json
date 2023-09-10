@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj": {}
+    "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj": {}
   },
   "projects": {
-    "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj": {
+    "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj",
+        "projectUniqueName": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj",
         "projectName": "Task10",
-        "projectPath": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj",
+        "projectPath": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\Task10.csproj",
         "packagesPath": "C:\\Users\\SvetiG\\.nuget\\packages\\",
-        "outputPath": "C:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\obj\\",
+        "outputPath": "c:\\Света\\Аналитик\\ДЗ БА ГикБрейн\\DZ_04_09_C_Sharp\\Task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SvetiG\\AppData\\Roaming\\NuGet\\NuGet.Config",
